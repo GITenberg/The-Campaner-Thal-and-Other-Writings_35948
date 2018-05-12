@@ -39,6 +39,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32901
     wikipedia: http://en.wikipedia.org/wiki/Jean_Paul
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35948#The-Campaner-Thal-and-Other-Writings
 gutenberg_issued: '2011-04-24'
 gutenberg_type: Text
 identifiers:
